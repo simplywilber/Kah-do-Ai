@@ -37,12 +37,8 @@ const Chat = (props) => {
         ${data}
       </p>
       <div class="border border-4 border-gray-50 rounded-full">
-        <img
-          src="src/public/images/user.jpg"
-          width={10}
-          height={10}
-          alt="user icon"
-          class="h-10 w-10 rounded-full"
+        <div
+        id="user-icon"
         />
       </div>
     </div>`;
@@ -52,11 +48,7 @@ const Chat = (props) => {
     `    <div class="flex items-center text-left justify-start gap-2">
       <div class="border border-4 border-[#ebeff2] rounded-full">
         <img
-          src="src/public/images/modelOfficial.jpg"
-          width=10
-          height=10
-          alt="user icon"
-          class="h-10 w-10 flex-none rounded-full"
+          id="ai-icon"
         />
       </div>
       <p class="bg-sky-50 text-gray-700 p-2 fancyDecor shadow-lg w-fit max-w-[75%] break-normal">
