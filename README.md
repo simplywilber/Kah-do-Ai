@@ -4,7 +4,7 @@
 
 > Welcome to Kah-do, an AI Chatbot that opens the door for users to seamlessly connect with an advanced AI, providing instant answers to a wide range of inquiries. Powered by Google's cutting-edge large language multimodal, Gemini, the application ensures a sophisticated and intelligent interaction experience for users seeking information and assistance.
 
-<a href="">View Live Website</a>
+<a href="https://kah-do.netlify.app">View Live Website</a>
 
 ## About The Project
 
